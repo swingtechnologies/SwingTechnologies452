@@ -7,4 +7,4 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=SwingTechnologies452&&show_icons=true&include_all_commits=true&title_color=ffffff&count_private=true&theme=highcontrast)
 
-![Swing Technologies's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SwingTechnologies452&theme=Gradient)
+![SwingTechnologies452's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SwingTechnologies452&theme=Gradient)
