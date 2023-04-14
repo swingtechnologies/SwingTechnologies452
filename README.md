@@ -1,1 +1,1 @@
-- 📫 How to reach me? say Hi @ business@swingtechnologies.in
+- 📫 How to reach us? say Hi @ business@swingtechnologies.in
